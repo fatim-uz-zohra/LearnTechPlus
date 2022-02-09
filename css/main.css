@@ -66,12 +66,12 @@ h1#page-title  {
 
 img#services-slide {
 	margin-left: 100px;
-	width: 100%;
+	width: 50%;
 }
 
 section#services-paragraph {
 	margin:100px;
-	margin-left: 400px;
+	margin-left: 200px;
 }
 
 /* portfolio page*/
@@ -160,7 +160,7 @@ img#about-image {
 
 
 form {
-	margin-left: 402px;
+	margin-left: 200px;
 }
 
 .form-control {
