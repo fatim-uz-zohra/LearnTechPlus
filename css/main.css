@@ -65,14 +65,14 @@ h1#page-title  {
 }
 
 img#services-slide {
-	margin-left: 100px;
+	margin-right: 100px;
 	width: 30%;
 }
 
 section#services-paragraph {
 	margin:120px;
 	margin-right: 200px;
-	float: left;
+	float: right;
 	
 }
 
