@@ -37,7 +37,7 @@ a.active {
 
 
 img#logo {
-	margin-left: 402px;
+	margin-left: 200px;
 	margin-right: 20px;
 	margin-top: 14px;
 	vertical-align: left;
@@ -77,7 +77,7 @@ section#services-paragraph {
 /* portfolio page*/
 
 img#project1-image ,img#project2-image ,img#project3-image{
-	margin-left: 401px;
+	margin-left: 200px;
 
 }
 
@@ -154,7 +154,7 @@ a.project3-button {
 /* About page*/
 
 img#about-image {
-	margin-left: 402px;
+	margin-left: 200px;
 }
 /*  Contact page*/
 
