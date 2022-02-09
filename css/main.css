@@ -213,14 +213,14 @@ form {
 footer {
 	margin-top: 600px;
 	background: #021428;
-	width: 125%;
-	height:40px;
-	color:white;
+	width: 99%;
+	height:50px;
+	color: white;
     text-align: center;
 }
 
 p#footer-text {
-	text-align:center;
-	line-height: 40;
+	text-align: center;
+	line-height: 30;
 	
 }
