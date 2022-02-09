@@ -70,7 +70,9 @@ img#services-slide {
 }
 
 section#services-paragraph {
-	margin:10px;
+	margin:100px;
+	margin-left: 200px;
+	float: left;
 	
 }
 
